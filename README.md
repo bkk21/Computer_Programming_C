@@ -1,1 +1,3 @@
-#Computer_Programming_C
+2021년도 컴퓨터 프로그래밍 자료
+
+- C 실습
